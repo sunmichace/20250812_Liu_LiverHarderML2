@@ -1,0 +1,5 @@
+Method,R²,MAE,Status,R²_Improvement(%),MAE_Improvement(%)
+Hyperparameter_Tuning,0.423,2.339,Success,31.775700934579433,4.802604802604797
+Ensemble_Learning,0.415,2.371,Success,29.283489096573202,3.500203500203494
+Feature_Engineering,0.349,2.466,Limited_Success,8.722741433021797,-0.3663003663003802
+Baseline_GradientBoosting,0.321,2.457,Baseline,0.0,0.0

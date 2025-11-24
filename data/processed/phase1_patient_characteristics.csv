@@ -1,0 +1,37 @@
+Category,Characteristic,Value,Statistics
+Demographics,"Total Patients, n","1,045",1045 (100%)
+Demographics,"Age (years), mean ± SD",nan ± nan,Range: nan-nan
+Demographics,"Age (years), median (IQR)",nan (nan-nan),n=1045
+Demographics,"男, n (%)",643 (61.5%),n=1045
+Demographics,"女, n (%)",402 (38.5%),n=1045
+Follow-up Characteristics,"Follow-up duration (years), mean ± SD",2.1 ± 1.8,Range: 0.0-7.8
+Follow-up Characteristics,"Follow-up duration (years), median (IQR)",1.7 (0.5-3.3),n=1045
+Follow-up Characteristics,"Number of examinations, mean ± SD",3.9 ± 2.7,Range: 2-25
+Follow-up Characteristics,"Examination interval (days), mean ± SD",355 ± 378,Median: 220
+Follow-up Characteristics,"2 examinations, n (%)",425 (40.7%),Total: 1045
+Follow-up Characteristics,"3 examinations, n (%)",219 (21.0%),Total: 1045
+Follow-up Characteristics,"4 examinations, n (%)",124 (11.9%),Total: 1045
+Follow-up Characteristics,"5 examinations, n (%)",89 (8.5%),Total: 1045
+Follow-up Characteristics,"6 examinations, n (%)",62 (5.9%),Total: 1045
+Follow-up Characteristics,"7 examinations, n (%)",38 (3.6%),Total: 1045
+Follow-up Characteristics,"8 examinations, n (%)",21 (2.0%),Total: 1045
+Follow-up Characteristics,"9 examinations, n (%)",21 (2.0%),Total: 1045
+Baseline Liver Stiffness,"Liver stiffness (kPa), mean ± SD",9.50 ± 8.44,Range: 2.5-75.0
+Baseline Liver Stiffness,"Liver stiffness (kPa), median (IQR)",6.80 (5.00-10.30),n=1045
+Baseline Liver Stiffness,"Normal/Mild (<7.0 kPa), n (%)",534 (51.1%),Total: 1045
+Baseline Liver Stiffness,"Moderate fibrosis (7.0-12.5 kPa), n (%)",311 (29.8%),Total: 1045
+Baseline Liver Stiffness,"Severe fibrosis (12.5-20.0 kPa), n (%)",121 (11.6%),Total: 1045
+Baseline Liver Stiffness,"Cirrhosis (≥20.0 kPa), n (%)",79 (7.6%),Total: 1045
+Final Liver Stiffness,"Liver stiffness (kPa), mean ± SD",8.38 ± 8.37,Range: 2.6-75.0
+Final Liver Stiffness,"Liver stiffness (kPa), median (IQR)",6.20 (4.80-8.60),n=1045
+Disease Progression,"Change in liver stiffness (kPa), mean ± SD",-1.12 ± 8.01,Range: -67.7 to 70.5
+Disease Progression,"Change in liver stiffness (kPa), median (IQR)",-0.40 (-2.40-0.90),n=1045
+Disease Progression,"Significant improvement (≤-2.0 kPa), n (%)",304 (29.1%),Total: 1045
+Disease Progression,"Mild improvement (-1.9 to -0.1 kPa), n (%)",296 (28.3%),Total: 1045
+Disease Progression,"Stable (0 kPa), n (%)",30 (2.9%),Total: 1045
+Disease Progression,"Mild progression (0.1 to 1.9 kPa), n (%)",272 (26.0%),Total: 1045
+Disease Progression,"Significant progression (≥2.0 kPa), n (%)",143 (13.7%),Total: 1045
+Data Quality,Patient retention rate (%),94.8%,1045/1102 patients
+Data Quality,Record completeness rate (%),34.2%,4029 complete records
+Data Quality,Outlier detection rate (%),2.135%,86 outlier records
+Data Quality,"Prediction tasks generated, n","2,984",Average 2.9 tasks per patient
